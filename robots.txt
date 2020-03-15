@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://beiyalaec.bineetkumar.com/sitemap.xml
